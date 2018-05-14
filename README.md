@@ -33,6 +33,14 @@ Most of this is being financed from my Ethereum wallet.
 | [OXO Mixing Bowls](https://www.amazon.com/gp/product/B007U256CS/ref=oh_aui_detailpage_o02_s01?ie=UTF8&psc=1)                   | $25   |
 | **Total**                          |**$465**|
 
+## Herbs
+- Parsley
+- Tarragon
+- Rosemary
+- Mint
+- Dill
+- Wild Thyme
+
 ## Resources
 - Diego Maceda
 - [Binging with Babish](https://www.youtube.com/channel/UCJHA_jMfCvEnv-3kRjTCQXw)
@@ -40,3 +48,4 @@ Most of this is being financed from my Ethereum wallet.
 - [Yummly](http://yummly.com)
 - [MyFitnessPal](http://myfitnesspal.com)
 - [HEB-To-You](https://hebtoyou.com/home/)
+- [Gordon Ramsay's Masterclass](https://www.startpage.com/do/search?q=masterclass%20gordon%20ramsay)
