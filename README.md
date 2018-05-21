@@ -31,6 +31,9 @@ Most of this is being financed from my Ethereum wallet.
 | [Grill Armor Oven Gloves](https://www.amazon.com/gp/product/B00ZORPCGG/ref=oh_aui_detailpage_o02_s01?ie=UTF8&psc=1)            | $26   |
 | [OXO Cutting Board](https://www.amazon.com/gp/product/B000CBOTQ8/ref=oh_aui_detailpage_o02_s01?ie=UTF8&psc=1)                  | $15   |
 | [OXO Mixing Bowls](https://www.amazon.com/gp/product/B007U256CS/ref=oh_aui_detailpage_o02_s01?ie=UTF8&psc=1)                   | $25   |
+| Black Silicone Spatula | $10 |
+| Stainless Steel Funnel Set of 3 | $13 |
+| Wine Coaster (Salt holder) | $10 |
 | **Total**                          |**$465**|
 
 ## Herbs
