@@ -20,25 +20,25 @@ I'm taking a [buy-it-for-life](https://www.reddit.com/r/BuyItForLife/) approach.
 
 Most of this is being financed from my Ethereum wallet.
 
-| Equipment                                                                                                                | Price    |
-| ------------------------------------------------------------------------------------------------------------------------ | -------: |
-| [All-Clad 10 inch fry pan](https://www.amazon.com/gp/product/B005EXVUFC/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1)     | $350     |
-| All-Clad 3 quart covered sauce pan                                                                                       | -        |
-| All-Clad 3 quart covered sauté pan                                                                                       | -        |
-| [IMUSA Tortilla Warmer](https://www.amazon.com/gp/product/B00164SI8K/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1)        | $4       |
-| [Wusthof Pro 8'' Chef's Knife](https://www.amazon.com/gp/product/B008GRUNOC/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1) | $30      |
-| [Glacio Ice Trays](https://www.amazon.com/gp/product/B010KPESWU/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1)             | $15      |
-| [Grill Armor Oven Gloves](https://www.amazon.com/gp/product/B00ZORPCGG/ref=oh_aui_detailpage_o02_s01?ie=UTF8&psc=1)      | $26      |
-| [OXO Cutting Board](https://www.amazon.com/gp/product/B000CBOTQ8/ref=oh_aui_detailpage_o02_s01?ie=UTF8&psc=1)            | $15      |
-| [OXO Mixing Bowls](https://www.amazon.com/gp/product/B007U256CS/ref=oh_aui_detailpage_o02_s01?ie=UTF8&psc=1)             | $25      |
-| Black Silicone Spatula                                                                                                   | $10      |
-| Stainless Steel Funnel Set of 3                                                                                          | $13      |
-| Wine Coaster (Salt holder)                                                                                               | $10      |
-| [T-fal Nonstick Fry Pan](https://www.amazon.com/gp/product/B000GWG0T2/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1) | $28 |
-| [Utopia Kitchen Steel Sharpening Rod](https://www.amazon.com/gp/product/B071FC4GYN/ref=oh_aui_detailpage_o00_s01?ie=UTF8&psc=1) | $15 |
-| [Cole & Mason Pepper Grinder](https://www.amazon.com/gp/product/B003OICYZO/ref=oh_aui_detailpage_o00_s01?ie=UTF8&psc=1) | $33 |
-| [Chef Works Mens Black Apron](https://www.amazon.com/gp/product/B002JM16AK/ref=oh_aui_detailpage_o00_s01?ie=UTF8&psc=1) | $13 |
-| **Total**                                                                                                                | **$554** |
+| Equipment                                                                                                                       | Price    |
+| ------------------------------------------------------------------------------------------------------------------------------- | -------: |
+| [All-Clad 10 inch fry pan](https://www.amazon.com/gp/product/B005EXVUFC/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1)            | $350     |
+| All-Clad 3 quart covered sauce pan                                                                                              | -        |
+| All-Clad 3 quart covered sauté pan                                                                                              | -        |
+| [IMUSA Tortilla Warmer](https://www.amazon.com/gp/product/B00164SI8K/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1)               | $4       |
+| [Wusthof Pro 8'' Chef's Knife](https://www.amazon.com/gp/product/B008GRUNOC/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1)        | $30      |
+| [Glacio Ice Trays](https://www.amazon.com/gp/product/B010KPESWU/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1)                    | $15      |
+| [Grill Armor Oven Gloves](https://www.amazon.com/gp/product/B00ZORPCGG/ref=oh_aui_detailpage_o02_s01?ie=UTF8&psc=1)             | $26      |
+| [OXO Cutting Board](https://www.amazon.com/gp/product/B000CBOTQ8/ref=oh_aui_detailpage_o02_s01?ie=UTF8&psc=1)                   | $15      |
+| [OXO Mixing Bowls](https://www.amazon.com/gp/product/B007U256CS/ref=oh_aui_detailpage_o02_s01?ie=UTF8&psc=1)                    | $25      |
+| Black Silicone Spatula                                                                                                          | $10      |
+| Stainless Steel Funnel Set of 3                                                                                                 | $13      |
+| Wine Coaster (Salt holder)                                                                                                      | $10      |
+| [T-fal Nonstick Fry Pan](https://www.amazon.com/gp/product/B000GWG0T2/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1)              | $28      |
+| [Utopia Kitchen Steel Sharpening Rod](https://www.amazon.com/gp/product/B071FC4GYN/ref=oh_aui_detailpage_o00_s01?ie=UTF8&psc=1) | $15      |
+| [Cole & Mason Pepper Grinder](https://www.amazon.com/gp/product/B003OICYZO/ref=oh_aui_detailpage_o00_s01?ie=UTF8&psc=1)         | $33      |
+| [Chef Works Mens Black Apron](https://www.amazon.com/gp/product/B002JM16AK/ref=oh_aui_detailpage_o00_s01?ie=UTF8&psc=1)         | $13      |
+| **Total**                                                                                                                       | **$554** |
 
 ## Herbs
 - Parsley
