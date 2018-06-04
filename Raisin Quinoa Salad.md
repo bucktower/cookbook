@@ -6,17 +6,17 @@
 - **Time to Prepare**: 20 min
 
 ## Ingredients
-| Ingredient     | Quantity  | Calories |  Cost |
-|----------------|-----------|----------|------:|
-| Quinoa | 1 cup | 222     | $1.20     |
-| Water          | 2 cups  | -       | -     |
-| Raisins    | 1/2 cup         | 240      | $0.99     |
-| Spinach       | 2.5oz         | 20        |     $1.79     |
-| Balsamic Vinegar | 1/2 cup | 40 | $0.73 |
-| Feta cheese | 1/2 cup | 140 | $1.04 |
-| Sunflower seeds | 1/2 cup | 240 | $0.63 |
-| Honey | 2 tbsp | 128 | $0.40 |
-| **Total**      | **2 bowls**| **1,030**  | **$5.58** |
+| Ingredient       | Quantity    | Calories  | Cost      |
+| ---------------- | ----------- | --------- | --------: |
+| Quinoa           | 1 cup       | 222       | $1.20     |
+| Water            | 2 cups      | -         | -         |
+| Raisins          | 1/2 cup     | 240       | $0.99     |
+| Spinach          | 2.5oz       | 20        | $1.79     |
+| Balsamic Vinegar | 1/2 cup     | 40        | $0.73     |
+| Feta cheese      | 1/2 cup     | 140       | $1.04     |
+| Sunflower seeds  | 1/2 cup     | 240       | $0.63     |
+| Honey            | 2 tbsp      | 128       | $0.40     |
+| **Total**        | **2 bowls** | **1,030** | **$5.58** |
 
 ## Equipment
 - All-Clad 3 quart covered sauce pan

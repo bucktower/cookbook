@@ -6,13 +6,13 @@
 - **Time to Prepare**: 30 min
 
 ## Ingredients
-| Ingredient     | Quantity  | Calories |  Cost |
-|----------------|-----------|----------|------:|
+| Ingredient          | Quantity | Calories | Cost      |
+| ------------------- | -------- | -------- | --------: |
 | Country White Bread | 2 slices | 240      | $0.30     |
-| Bacon          | 2 strips  | 80       | $0.89     |
-| Brown Mushrooms    | 3         | 52      | $0.54     |
-| Eggs       | 2         | 143        |     $0.46     |
-| **Total**      | **2**| **516**  | **$2.19** |
+| Bacon               | 2 strips | 80       | $0.89     |
+| Brown Mushrooms     | 3        | 52       | $0.54     |
+| Eggs                | 2        | 143      | $0.46     |
+| **Total**           | **2**    | **516**  | **$2.19** |
 
 ## Equipment
 - All-Clad 10 inch fry pan
